@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background: #ff6304;
+}
 .main {
     max-width: 95%;
     margin: 2% 5%;
@@ -10,9 +13,10 @@
 }
 .main .box {
     width: 30%;
-    border: 1px solid #333;
-    border-radius: 10px;
-    background: #F72302;
+    border-radius: 16px;
+    background: #FB5A04;
+    box-shadow:  5px 5px 6px #e25104,
+                -5px -5px 6px #ff6304;
     color: #d8d5d5;
     padding: 8px 5px;
 }
