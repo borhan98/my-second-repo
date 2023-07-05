@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    max-width: 95%;
+    margin: 2% 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.main .box {
+    width: 30%;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background: #F72302;
+    color: #d8d5d5;
+    padding: 8px 5px;
+}
+.main .box h2 {
+    padding: 10px 0;
+}
+.main .box p {
+    padding: 10px 0;
+}
+.main .box .img {
+    max-width: 100%;
+    border-radius: 10px;
+}
