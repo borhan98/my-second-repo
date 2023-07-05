@@ -22,6 +22,10 @@
 .main .box p {
     padding: 10px 0;
 }
+.main .box p a {
+    color: rebeccapurple;
+    text-decoration: none;
+}
 .main .box .img {
     max-width: 100%;
     border-radius: 10px;
